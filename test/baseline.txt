@@ -1,0 +1,65 @@
+field of 2^37 (137438953472) bytes
+100000000 updates per thread (24 threads)
+8 byte element size (17179869184 elements total)
+Elements per thread: 715827882
+Hotset starts at ffffffff of size 143165576
+Init took 0.0002 seconds
+Region address: 0x7ee86f59c000	 size: 137438953472
+Field addr: 0x6f59c000
+
+
+Initializing thread data
+Initialization time: 0.0002 seconds.
+
+
+starting thread [0]
+starting thread [1]
+Thread 0 region: 0x7ee86f59c000 - 0x7ee9c4af1550	hot set: 0x7ee86f59bfff - 0x7ee8b39e043f
+starting thread [2]
+Thread 1 region: 0x7ee9c4af1550 - 0x7eeb1a046aa0	hot set: 0x7ee9c4af154f - 0x7eea08f3598f
+starting thread [3]
+Thread 2 region: 0x7eeb1a046aa0 - 0x7eec6f59bff0	hot set: 0x7eeb1a046a9f - 0x7eeb5e48aedf
+starting thread [4]
+Thread 3 region: 0x7eec6f59bff0 - 0x7eedc4af1540	hot set: 0x7eec6f59bfef - 0x7eecb39e042f
+starting thread [5]
+Thread 4 region: 0x7eedc4af1540 - 0x7eef1a046a90	hot set: 0x7eedc4af153f - 0x7eee08f3597f
+starting thread [6]
+Thread 5 region: 0x7eef1a046a90 - 0x7ef06f59bfe0	hot set: 0x7eef1a046a8f - 0x7eef5e48aecf
+starting thread [7]
+Thread 6 region: 0x7ef06f59bfe0 - 0x7ef1c4af1530	hot set: 0x7ef06f59bfdf - 0x7ef0b39e041f
+starting thread [8]
+Thread 7 region: 0x7ef1c4af1530 - 0x7ef31a046a80	hot set: 0x7ef1c4af152f - 0x7ef208f3596f
+starting thread [9]
+Thread 8 region: 0x7ef31a046a80 - 0x7ef46f59bfd0	hot set: 0x7ef31a046a7f - 0x7ef35e48aebf
+starting thread [10]
+Thread 9 region: 0x7ef46f59bfd0 - 0x7ef5c4af1520	hot set: 0x7ef46f59bfcf - 0x7ef4b39e040f
+starting thread [11]
+Thread 10 region: 0x7ef5c4af1520 - 0x7ef71a046a70	hot set: 0x7ef5c4af151f - 0x7ef608f3595f
+starting thread [12]
+Thread 11 region: 0x7ef71a046a70 - 0x7ef86f59bfc0	hot set: 0x7ef71a046a6f - 0x7ef75e48aeaf
+starting thread [13]
+Thread 12 region: 0x7ef86f59bfc0 - 0x7ef9c4af1510	hot set: 0x7ef86f59bfbf - 0x7ef8b39e03ff
+starting thread [14]
+Thread 13 region: 0x7ef9c4af1510 - 0x7efb1a046a60	hot set: 0x7ef9c4af150f - 0x7efa08f3594f
+starting thread [15]
+Thread 14 region: 0x7efb1a046a60 - 0x7efc6f59bfb0	hot set: 0x7efb1a046a5f - 0x7efb5e48ae9f
+starting thread [16]
+Thread 15 region: 0x7efc6f59bfb0 - 0x7efdc4af1500	hot set: 0x7efc6f59bfaf - 0x7efcb39e03ef
+starting thread [17]
+Thread 16 region: 0x7efdc4af1500 - 0x7eff1a046a50	hot set: 0x7efdc4af14ff - 0x7efe08f3593f
+starting thread [18]
+Thread 17 region: 0x7eff1a046a50 - 0x7f006f59bfa0	hot set: 0x7eff1a046a4f - 0x7eff5e48ae8f
+starting thread [19]
+Thread 18 region: 0x7f006f59bfa0 - 0x7f01c4af14f0	hot set: 0x7f006f59bf9f - 0x7f00b39e03df
+starting thread [20]
+Thread 19 region: 0x7f01c4af14f0 - 0x7f031a046a40	hot set: 0x7f01c4af14ef - 0x7f0208f3592f
+starting thread [21]
+Thread 20 region: 0x7f031a046a40 - 0x7f046f59bf90	hot set: 0x7f031a046a3f - 0x7f035e48ae7f
+starting thread [22]
+Thread 21 region: 0x7f046f59bf90 - 0x7f05c4af14e0	hot set: 0x7f046f59bf8f - 0x7f04b39e03cf
+starting thread [23]
+Thread 22 region: 0x7f05c4af14e0 - 0x7f071a046a30	hot set: 0x7f05c4af14df - 0x7f0608f3591f
+Thread 23 region: 0x7f071a046a30 - 0x7f086f59bf80	hot set: 0x7f071a046a2f - 0x7f075e48ae6f
+Finished running GUPS
+Elapsed time: 1298.9548 seconds.
+GUPS = 0.0018476394
